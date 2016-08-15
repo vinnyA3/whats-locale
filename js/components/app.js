@@ -1,5 +1,7 @@
-import { Component } from "react";
-import ReactDOM from "react-dom";
+import React, { Component } from "react";
+// Components
+import GoogleMap from './google-map';
+import LocationInput from './location-input';
 
 export default class App extends Component {
 
