@@ -58,12 +58,12 @@ export default class GoogleMap extends Component {
     this.renderPlaces();
   }
 
-  /* componentWillReceiveProps(nextProps) {
+  componentWillReceiveProps(nextProps) {
     this.props.center = nextProps.center;
     this.map = this.createMap();
     this.places = this.createPlaces();
     this.renderPlaces();
-  } */
+  }
 
   render(){
     return(
