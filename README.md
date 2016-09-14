@@ -3,3 +3,4 @@
 ** Google Map APi **
 ** Aug 29 **
 ** REFACTOR MODULES **
+** Redux **
